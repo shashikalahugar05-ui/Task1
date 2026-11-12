@@ -10,7 +10,7 @@ Visualize income statements, balance sheets, and cash flows. Analyze profitabili
 ## Files in Repo
 - financial_input.csv - Input dataset (12 months)
 - financial_dashboard.py - Python code (Mobile Responsive)
-- financial_dashboard.png - Final Output Dashboard
+
 
 ## Dashboard Includes
 1. Income Statement - Monthly Trend
